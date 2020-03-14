@@ -1,0 +1,5 @@
+For webcam:
+streamer -f jpeg -o Pictures/image.jpeg
+
+For IP address:
+curl ifconfig.me
