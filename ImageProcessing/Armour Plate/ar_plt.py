@@ -24,3 +24,4 @@ cv2.imshow("images", np.hstack([img, output]))
 cv2.waitKey(0)
 
 #found contours of the red LEDs. Don't know how to procceed after this
+#maybe I can find the corners of the contour and draw a polygon with those points but I can't get rid of the left led and the 4 in the image
