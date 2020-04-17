@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# instead of inputs f, b, r, l, I modified the previous move.py to include hand gestures i.e, number of fingers
 import rospy
 from geometry_msgs.msg import Twist
 import numpy as np
